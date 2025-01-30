@@ -1,0 +1,7 @@
+git init =>for initializing git
+
+git status=>for listing untracked files
+
+git add -A =>for adding untracked files to staging area
+
+git commit -m "message" =>for adding untracked files from staging area to local repository
