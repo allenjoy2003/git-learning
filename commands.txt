@@ -9,3 +9,7 @@ git commit -m "message" =>for adding untracked files from staging area to local 
 git config --global user.name "username"
 
 git config --global user.email "email"
+
+git remote add remote_name(origin) path_name ( for adding remote) (only once)
+
+git push remote_name branch_name(master\main)
